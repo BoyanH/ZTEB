@@ -1,0 +1,19 @@
+[[MESSAGES CONTROL]]
+# redefined-outer-name is how pytest fixtures work
+disable=missing-docstring,redefined-outer-name
+
+# and again, the domain-specific variable names
+good-names=i,
+           j,
+           k,
+           ex,
+           Run,
+           _,
+           id,
+           p,
+           q,
+           n,
+           a,
+           b,
+           e,
+           t

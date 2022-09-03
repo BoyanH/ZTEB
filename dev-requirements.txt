@@ -1,0 +1,8 @@
+pytest
+flake8
+pylint
+wheel
+cryptography
+tqdm
+click
+pandas

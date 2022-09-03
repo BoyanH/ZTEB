@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+zteb-venv/
+zteb.egg-info/
+build/
+dist/
+card.txt
+wrapper.txt
+card-shuffled.txt
